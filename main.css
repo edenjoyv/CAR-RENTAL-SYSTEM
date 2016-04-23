@@ -1,0 +1,89 @@
+.logbody {
+	background-color:rgba(0,0,0,0.6);
+	width: 50%;
+	height:55%;
+	border-radius: 20px;
+	-webkit-box-shadow: 2px 1px 6px 2px #000000;
+	border: 3px solid #999;
+	box-shadow: 2px 1px 6px 2px #000000;
+	margin-right: auto;
+	margin-left: auto;
+	padding-right: 10px;
+	clear: both;
+}
+
+.tb5 {
+    border: 5px solid rgb(128,128,128);
+    border-radius: 7px;
+    padding: 8px;
+	font-size: 16px;
+	font-family: MV Boli;
+	font-size: 16px;
+	font-weight: bold;
+	height: 45px;
+}
+
+.tb5:focus { 
+    outline: none;
+    border-color: #9ecaed;
+    box-shadow: 0 0 10px #9ecaed;
+}
+
+.design {
+    font-family: MV Boli;
+    font-size: 14px;
+    font-weight: bolder;
+}
+
+table {
+    font-family: MV Boli;
+}
+
+th {
+    font-weight: bolder;
+}
+
+.tb {
+    width: 60%;
+}
+
+.welcome {
+    text-transform: uppercase;
+}
+.cust {
+    background-color:white ;
+    width: 700px;
+    height:absolute;
+    box-shadow: 0 0 10px black;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 5px;
+    clear: both;
+}
+
+.font {
+    font-family: MV Boli;
+    font-feature-settings: normal;
+    table-layout: fixed;animation-direction: alternate;
+}
+
+.input {
+    font-family: MV Boli;
+}
+
+.tb1 {
+    width: 30%;
+}
+
+.date {
+    font-family: MV Boli;
+}
+
+.tb2 {
+    width: 50%;
+}
